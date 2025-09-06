@@ -21,7 +21,7 @@ const Body = () => {
         <h1 className="text-3xl md:text-5xl mt-28 font-semibold relative z-10 text-center">
           AI Email Reply Powered By{" "}
           <span className="bg-[#FFE7E9] px-2 rounded-lg text-3xl md:text-3xl underline">
-            ChatGPT
+            Gemini
           </span>
         </h1>
       </motion.div>
