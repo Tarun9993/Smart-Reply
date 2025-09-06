@@ -41,7 +41,7 @@ const Body = () => {
       <img
         src={arrow}
         alt="arrow"
-        className="absolute h-12 top-75 left-7 sm:h-24 md:h-25 sm:top-55 md:top-63 sm:left-30 md:left-110 z-20"
+        className="absolute h-12 top-77 left-6 sm:h-24 md:h-25 sm:top-55 md:top-63 sm:left-30 md:left-110 z-20"
       />
 
       <motion.div
@@ -55,7 +55,7 @@ const Body = () => {
       >
         <button
           className="flex bg-[#3771E0] text-base sm:text-lg md:text-xl 
-             relative mt-15 sm:mt-16 md:mt-13 text-white 
+             relative mt-10 ml-1 sm:mt-16 md:mt-13 text-white 
              items-center justify-center gap-3 sm:gap-4 md:gap-6 
              font-semibold px-6 sm:px-8 md:px-10 
              py-3 sm:py-3.5 md:py-4 
